@@ -133,7 +133,7 @@ Businesses may need to abide by guidelines outlined in the Privacy Act 1988 give
 
 As my project is smalll, in a way of legal sense, I wound't have to concern much about protecting user data, I would mainly focus more on user accout, password, authorization, payment transaction. As i am using devise and stripe gem its has a build in security that can protecting data information. I believe i have done my responsibility to Privacy Act. i will allow users to have a custom Username, aside from their name for the shipping address, which would follow the guidlines outlined in the Privacy Act as well.
 
-# question 9
+# Question 9
 
 ### Describe the structural aspects of the relational database model. Your description should include information about the structure in which data is stored and how relations are represented in that structure.
 
@@ -373,6 +373,7 @@ Listings_Transactions
 - Conversations
 
 ### g. Design a schema using an Entity Relationship Diagram (ERD) appropriate for the database of this website (assuming a relational database model)
+![erd](docs/wireframeidex.png)
 
 ### Ref
 
