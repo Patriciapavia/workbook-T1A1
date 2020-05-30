@@ -373,7 +373,7 @@ Listings_Transactions
 - Conversations
 
 ### g. Design a schema using an Entity Relationship Diagram (ERD) appropriate for the database of this website (assuming a relational database model)
-![erd](docs/wireframeidex.png)
+![erd](erd.JPG)
 
 ### Ref
 
